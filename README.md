@@ -13,8 +13,9 @@
 <h3 align="center"></h3> 
 <p align="center">
 - 🔭 I’m currently working on MERN stack
-
+<p align="center">
 - 🌱 I’m currently learning DevOps & DSA
+<p align="center">                 
 
 - 📫 Reach me out:  <a href="https://shashikanth.netlify.app" target="blank">shashi.com</a>
 </p>
