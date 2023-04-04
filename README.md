@@ -26,4 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shashikanth2017" alt="shashikanth" width="450" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=shashikanth2017&show_icons=true&locale=en" alt="shashikanth" width="470" /></p>
 <br></br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shashikanth2017&" alt="shashikanth" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shashikanth2017&" alt="shashikanth" width="450" /></p>
