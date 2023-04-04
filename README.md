@@ -1,6 +1,5 @@
 <h3 align="right"></h3><p align="right" width="100"> <img src="https://komarev.com/ghpvc/?username=shashikanth2017" alt="shashikanth2017" /> </p>
 <h1 align="center">Hey, shashh here 🤖!</h1>
-<p><img src=""C:\Users\selvi\OneDrive\Pictures\Screenshots\WhatsApp Image 2023-04-04 at 11.08.31.jpg"/>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/shashi-kanth-299aa9206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi" height="20" width="30" /></a>
