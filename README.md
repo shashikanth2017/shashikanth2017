@@ -1,4 +1,4 @@
-<h1 align="center">Hey, shashh here 🤍!</h1>
+<h1 align="center">Hey, shashh here 🤖!</h1>
 <h3 align="right"></h3><p align="right"> <img src="https://komarev.com/ghpvc/?username=shashikanth2017" alt="shashikanth2017" /> </p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
