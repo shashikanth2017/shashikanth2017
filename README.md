@@ -16,7 +16,6 @@
 <p align="center">
 - 🌱 I’m currently learning DevOps & DSA
 <p align="center">                 
-
 - 📫 Reach me out:  <a href="https://shashikanth.netlify.app" target="blank">shashi.com</a>
 </p>
 
